@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SifisoAlex
-- 👀 I’m interested in Debelopment
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on .Building systems
 - 📫 How to reach me 
